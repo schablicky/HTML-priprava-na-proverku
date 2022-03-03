@@ -2,8 +2,9 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-table, th, td {
+table, th, td, tr {
     border: 1px solid black;
+    border-collapse: collapse;
 }
 
 body {
